@@ -23,3 +23,5 @@ config/secrets.production.js
 
 # deploy cache
 .awspublish*
+
+.idea
